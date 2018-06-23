@@ -1,0 +1,16 @@
+[ {
+  "Student Name" : "Srikant",
+  "Email ID" : "srikant.gurram@atos.net",
+  "Roll No." : "1",
+  "Phone No." : "9819996599"
+}, {
+  "Student Name" : "Pravesh",
+  "Email ID" : "pravesh.shukla@atos.net",
+  "Roll No." : "2",
+  "Phone No." : "9874563210"
+}, {
+  "Student Name" : "Sunil",
+  "Email ID" : "sunil.singh@atos.net",
+  "Roll No." : "3",
+  "Phone No." : "9819664422"
+} ]
